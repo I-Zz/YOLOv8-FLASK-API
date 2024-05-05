@@ -9,9 +9,9 @@ python predict_api.py --device cpu
 to run into cpu (by default is gpu)
 
 # Cloud Computing Course Project
-Submitted to Dr. Animesh Chaturvedi [(animesh88)](https://github.com/animesh88/CloudComputing)
 
 ## Hosting YOLOv8 image analysis model on AWS EC2 Instance
+Submitted to Dr. Animesh Chaturvedi [(animesh88)](https://github.com/animesh88/CloudComputing)
 
 ### Team Members
 - Harsh Gupta - 21BDS020 [(imguptaharsh)](https://github.com/imguptaharsh)
